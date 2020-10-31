@@ -39,3 +39,8 @@ D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.cshtml.g.cs
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.cshtml.g.cs
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\Peminjamen\Create.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\Peminjamen\Delete.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\Peminjamen\Details.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\Peminjamen\Edit.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\Peminjamen\Index.cshtml.g.cs
