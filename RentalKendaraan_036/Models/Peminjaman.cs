@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace RentalKendaraan_036.Models
 {
@@ -11,6 +12,7 @@ namespace RentalKendaraan_036.Models
         }
 
         public int IdPeminjaman { get; set; }
+        [Required(ErrorMessage = "Tanggal Tidak Boleh Kosong")]
         public DateTime? TanggalPeminjaman { get; set; }
         public int? IdKendaraan { get; set; }
         public int? IdCustomer { get; set; }
