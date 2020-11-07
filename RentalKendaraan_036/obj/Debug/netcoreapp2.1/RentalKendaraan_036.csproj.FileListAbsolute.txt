@@ -64,3 +64,8 @@ D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\JenisKendaraans\Details.cshtml.g.cs
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\JenisKendaraans\Edit.cshtml.g.cs
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\JenisKendaraans\Index.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\KondisiKendaraans\Create.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\KondisiKendaraans\Delete.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\KondisiKendaraans\Details.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\KondisiKendaraans\Edit.cshtml.g.cs
+D:\Project\RentalKendaraan_036\RentalKendaraan_036\obj\Debug\netcoreapp2.1\Razor\Views\KondisiKendaraans\Index.cshtml.g.cs

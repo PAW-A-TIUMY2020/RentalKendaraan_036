@@ -21,5 +21,6 @@ namespace RentalKendaraan_036.Models
         public Jaminan IdJaminanNavigation { get; set; }
         public Kendaraan IdKendaraanNavigation { get; set; }
         public ICollection<Pengembalian> Pengembalian { get; set; }
+        
     }
 }
