@@ -9,13 +9,20 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+@using (Html.BeginForm("Index", "Kendaraan", FormMethod.Get))
+{
+    <p>
+        Ketersediaan : @Html.DropDownList("Ktsd", "Pilih Ketersediaan")
+        <input type="submit" value="filter"/>
+    </p>
+}
 <table class="table">
     <thead>
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.NamaKendaraan)
             </th>
-            <th>
+            <th>sss
                 @Html.DisplayNameFor(model => model.NoPolisi)
             </th>
             <th>

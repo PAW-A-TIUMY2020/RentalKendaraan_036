@@ -1,6 +1,5 @@
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\bin\Debug\netcoreapp2.1\appsettings.Development.json
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\bin\Debug\netcoreapp2.1\appsettings.json
-D:\Project\RentalKendaraan_036\RentalKendaraan_036\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\bin\Debug\netcoreapp2.1\RentalKendaraan_036.deps.json
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\bin\Debug\netcoreapp2.1\RentalKendaraan_036.runtimeconfig.json
 D:\Project\RentalKendaraan_036\RentalKendaraan_036\bin\Debug\netcoreapp2.1\RentalKendaraan_036.runtimeconfig.dev.json
